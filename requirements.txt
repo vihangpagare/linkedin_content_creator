@@ -1,0 +1,39 @@
+# LinkedIn Content Agent Requirements
+
+# Core LangGraph and LangChain
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+
+# Web Framework
+streamlit
+
+
+
+# AI and ML Libraries
+openai
+anthropic
+
+# API Clients
+exa-py
+requests
+
+# Memory and Storage
+trustcall
+
+# Date and Time
+python-dateutil
+
+# Environment Management
+python-dotenv
+
+# Type Hints and Validation
+pydantic
+typing-extensions
+
+# Utilities
+uuid
+regex
+
